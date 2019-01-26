@@ -17,7 +17,7 @@ body{
 a.anchor {
   display: block;
   position: relative;
-  top: -70px;
+  top: -66px;
   visibility: hidden;
 }
 
@@ -50,6 +50,9 @@ a.anchor {
     opacity: 0.8;
     font-size:25px;
     margin-bottom:5px;
+    width:100%;
+    margin-top:20px;
+    text-align: center;
 }
 
 .flexcontainer{
